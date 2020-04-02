@@ -55,6 +55,7 @@ When we ask to use some approach, design pattern or tool you are not familiar wi
 We will really appreciate when you try to use something new to you in this assignment.
 
 . Implement Higher Order Component (HOC) `withLogging`. Any wrapped component logs its mounts, unmounts and renders to console.
+Use it at least for components representing a todo item.
 . Use async/await for at least one method calling API.
 . Use React Context as a data store (instead of using tools like Redux)
 
