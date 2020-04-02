@@ -10,6 +10,7 @@
 * where we don't ask for any specific tool/coding approach, use any according to your preferences.
 You may write a brief explanation of your choice
 * you should not spend with our assignment more than 6 hours
+* send us your work preferably as a link to git repository (e.g. GitHub)
 
 
 === Time for finishing
