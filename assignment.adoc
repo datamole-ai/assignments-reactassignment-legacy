@@ -44,6 +44,8 @@ But definitely do use some API service. It doesn't matter whether the API runs r
 . Use functional components and not class based components
 . Use react hooks where appropriate
 . (optional, but preferred) Use either Flow or TypeScript
+. (optional, but preferred) Write tests using your favorite testing tool.
+100% code coverage is not required, but having few test would be fine.
 
 
 === Additional tasks
