@@ -9,7 +9,9 @@
 * Write a Readme file with all information required to run in locally + all additional information you find worthy to share.
 * Where we don't ask for any specific tool/coding approach, use any according to your preferences.
 You may write a brief explanation of your choice.
+* Follow all code quality principles you know and are used to.
 * You should not spend with our assignment more than 6 hours.
+When this is not doable, choose what to implement and what not to.
 * Send us your work preferably as a link to git repository (e.g. GitHub).
 
 
@@ -38,7 +40,7 @@ Checkbox and text appearance changes and the item moves from open items into clo
 . Changes in items should be persistent between browser refresh (more robust persistence is not required).
 . Open item can be edited by clicking on its text. Reuse the form for creating new items. Closed items can't be edited.
 
-Feel free to use https://jsonplaceholder.typicode.com or any similar service as an API.
+As an API feel free to use https://github.com/typicode/json-server[json-server] npm package (either locally or as a https://jsonplaceholder.typicode.com[service]) or any similar solution.
 But definitely do use some API service. It doesn't matter whether the API runs remotely or locally.
 
 === Non-functional requirements
@@ -46,7 +48,7 @@ But definitely do use some API service. It doesn't matter whether the API runs r
 . Use react hooks where appropriate.
 . (optional, but preferred) Use either Flow or TypeScript.
 . (optional, but preferred) Write tests using your favorite testing tool.
-100% code coverage is not required, but having few test would be fine.
+100% code coverage is not required, but having few meaningful tests would be fine.
 
 
 === Additional tasks
