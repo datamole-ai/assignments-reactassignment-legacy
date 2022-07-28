@@ -46,7 +46,7 @@ But definitely do use some API service. It doesn't matter whether the API runs r
 === Non-functional requirements
 . Use functional components and not class based components.
 . Use react hooks where appropriate.
-. (optional, but preferred) Use either Flow or TypeScript.
+. Use TypeScript.
 . (optional, but preferred) Write tests using your favorite testing tool.
 100% code coverage is not required, but having few meaningful tests would be fine.
 
@@ -59,6 +59,6 @@ We will really appreciate when you try to use something new to you in this assig
 . Implement Higher Order Component (HOC) `withLogging`. Any wrapped component logs its mounts, unmounts and renders to console.
 Use it at least for components representing a todo item.
 . Use async/await for at least one method calling API.
-. Use React Context as a data store (instead of using tools like Redux)
+. Use Redux-Toolkit instead of pure Redux
 
 The goal here obviously isn't to improve the todo app but to better check your React knowledge.
